@@ -1,4 +1,4 @@
-# 
+# Custom Shotcut tools for Mac OS | Advanced Shotcut tools for PC Windows. Featuring shape-layers and color-grading — optimized for maximum performance on every platform.
 
 
 
